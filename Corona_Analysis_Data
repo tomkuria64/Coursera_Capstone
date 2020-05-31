@@ -1,0 +1,15 @@
+Data
+
+For this project, I will be using the data from below sources
+
+1. WHO covid website
+
+https://covid19.who.int/info
+
+The site has date wise spread of corona cases for each country. The data will need to be cleansed and required features 
+to be selected for doing the analysis. Then need to standardise the data and find out the optimum number of clusters using 
+the elbow method. Apply the KMeans clustering method and label countries with similar features.
+
+2. Fousquare API
+
+I will also be using the Fousquare API to find the trending venues in some of the most affected corona country capitals.
